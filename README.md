@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-traces-de-tes-pas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Les Traces De Tes Pas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-traces-de-tes-pas/) |
+| **Get License** | [Official Music Licensing for Les Traces De Tes Pas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-traces-de-tes-pas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2ce1c97fc862ba9cd792da8b49758083035468598a8229c42d10e5af90fd5698` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
