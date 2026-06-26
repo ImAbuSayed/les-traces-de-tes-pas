@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-traces-de-tes-pas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Les Traces De Tes Pas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-traces-de-tes-pas/) |
+| **Get License** | [Obtain a Music License for Les Traces De Tes Pas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-traces-de-tes-pas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit parisienne, ton parfum me suit
+> My love, c'est toi qui fais briller mon minuit
+> Tes yeux dans le rétro, c'est ma seule addiction
+> Je roule vers toi, babe, sans aucune question
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
